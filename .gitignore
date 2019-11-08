@@ -39,3 +39,4 @@ TAGS
 # Output REPL scripts
 /repl-node.js
 /repl-web.js
+jscl.min.js
